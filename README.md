@@ -1,6 +1,6 @@
 # devops-demo
-git config --global user.email "snookeycharm.asedillo@my.jru.edu"
-  git config --global user.name "snookeycharm"
+!git config --global user.email "snookeycharm.asedillo@my.jru.edu"
+!git config --global user.name "snookeycharm"
 # calc.py
 
 def add(a, b):
